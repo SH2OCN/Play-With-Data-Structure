@@ -4,6 +4,6 @@
 + 动态数组
 + 栈の接口
 + 队列の接口
-+ 动态数组implements栈
-+ 动态数组implements队列
+  + 动态数组implements栈
+  + 动态数组implements队列
 + 循环队列
