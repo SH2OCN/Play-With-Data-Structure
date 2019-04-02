@@ -9,3 +9,4 @@
 + [队列] Queue
   + 动态数组->队列 ArrayQueue
   + 循环队列 LoopQueue
+  + 链表队列 LinkedListQueue
