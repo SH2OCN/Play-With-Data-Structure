@@ -1,5 +1,5 @@
 # Play-With-My-Data-Structure
-慕课网《玩转数据结构》练习。
+动手实现一些基础数据结构。
 ## Contents:
 + 动态数组 Array
 + 链表 LinkedList
